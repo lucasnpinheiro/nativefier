@@ -43,7 +43,7 @@
   "homepage": "https://github.com/jiahaog/nativefier#readme",
   "dependencies": {
     "async": "^2.6.0",
-    "axios": "^0.18.0",
+    "axios": "^1.21.1",
     "babel-polyfill": "^6.26.0",
     "cheerio": "^1.0.0-rc.2",
     "commander": "^2.14.0",
@@ -58,8 +58,8 @@
     "sanitize-filename": "^1.6.1",
     "shelljs": "^0.8.1",
     "source-map-support": "^0.5.3",
-    "tmp": "0.0.33",
-    "validator": "^10.2.0"
+    "tmp": "0.2.7",
+    "validator": "^13.15.35"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
